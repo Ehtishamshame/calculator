@@ -56,3 +56,37 @@ button{
 .operator{
     color:#6dee0a;
 }
+
+@media (max-width:420px){
+
+
+    .Calculator{
+      
+        margin-top: 1vw;
+        margin-bottom: 1vw;
+        margin-left: 0.4vw;
+        margin-right: 0.4vw;
+        padding: 2.8vw;
+        
+    }
+    input{
+        width: 80vw;
+        padding: 5.0vw;
+        margin: 4.2vw;
+        font-size: 10vw;
+        
+    }
+    button{
+        width: 15.3vw;
+        height: 15.3vw;
+        margin: 2.3vw;
+        border-radius: 50%;
+        background:transparent;
+        font-size: 6vw;
+        
+    }
+
+
+
+    
+}
